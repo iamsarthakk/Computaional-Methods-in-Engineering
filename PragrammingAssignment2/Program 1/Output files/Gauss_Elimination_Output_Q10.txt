@@ -1,0 +1,6 @@
+Solutions using Gauss Elimination: 
+X = 
+1.00000
+-1.00000
+1.00000
+-1.00000

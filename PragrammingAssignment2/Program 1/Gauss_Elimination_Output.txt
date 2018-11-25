@@ -1,0 +1,5 @@
+Solutions using Gauss Elimination: 
+X = 
+0.89642
+0.76513
+0.61447

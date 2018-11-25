@@ -1,0 +1,5 @@
+All Eigen Values: 
+lambda =  
+8.15676
+0.65866
+0.18613

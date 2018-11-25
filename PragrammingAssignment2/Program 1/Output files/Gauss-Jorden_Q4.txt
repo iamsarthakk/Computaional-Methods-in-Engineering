@@ -1,0 +1,4 @@
+Inverse of matrix using Gauss Jorden Elimination: 
+0.148033 -0.083594 0.054773 
+-0.083594 0.213651 -0.054909 
+0.054773 -0.054909 0.142164 

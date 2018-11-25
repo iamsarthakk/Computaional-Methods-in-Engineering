@@ -1,0 +1,2 @@
+Largest Eigen Value: 
+lambda = 11.88506
